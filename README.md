@@ -4,7 +4,8 @@ to-learn
 - [ ] 闭包 自调用
 - [ ] node request 爬取数据
 - [X] fiddler 如何使用
-- [X] css :table   table-cell  table-row
+- [ ] css :table   table-cell  table-row
+- [ ] css 双栏响应布局
 
 
 new knowledge
