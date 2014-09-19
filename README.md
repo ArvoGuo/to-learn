@@ -3,7 +3,8 @@ to-learn
 - [ ] about callback
 - [ ] 闭包 自调用
 - [ ] node request 爬取数据
-- [ ] fiddler 如何使用
+- [X] fiddler 如何使用
+- [X] css :table   table-cell  table-row
 
 
 new knowledge
