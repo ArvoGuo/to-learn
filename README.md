@@ -6,6 +6,7 @@ to-learn
 - [X] fiddler 如何使用
 - [ ] css :table   table-cell  table-row
 - [ ] css 双栏响应布局
+- [ ] web components
 
 
 new knowledge
@@ -18,3 +19,4 @@ new knowledge
 			return (" "+Math.random()).split('.')[1];
 		}
 ```
+.
