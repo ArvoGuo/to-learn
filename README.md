@@ -12,11 +12,30 @@ to-learn
 new knowledge
 ============
 -[ ]在zepto下的on方法不能绑定字符串的方式创建的元素事件，只能用live
--[ ]微信监听对象，后续操作对象时，不要尝试去创建对象，应当去改变对象的属性。
--[ ]发get请求时后面要带随机数，否则会有缓存
+-[X]微信监听对象，后续操作对象时，不要尝试去创建对象，应当去改变对象的属性。
+-[X]发get请求时后面要带随机数，否则会有缓存
 ```
 		rand=function(){
 			return (" "+Math.random()).split('.')[1];
 		}
 ```
-.
+-[X]判断奇偶的性能优化 
+```
+	方法一
+	for (var i = 0,len = rows.length; i < len; i++){
+		if(i % 2){
+			className = 'even',
+		} else {
+			className = 'old'
+		}
+	方法二 , 32位数字的二进制底层表示，偶数最低位0，奇数最低位1，通过数字与数字进行按位与运算。
+			但此数为偶数，那么按位与运算的结果是0，
+			如果为奇数  ，那么按位与运算的结果是1
+	for (var i = 0,len = rows.length; i < len; i++){
+		if(i & 1){
+			className = 'old',
+		} else {
+			className = 'even'
+		}
+}
+```
