@@ -39,3 +39,14 @@ new knowledge
 		}
 }
 ```
+-[X] 监听div内容的变化(例如用div模仿select标签的时候使用)
+```
+	$('#province').bind('DOMNodeInserted',function(){
+    })
+```
+-[X] css文本超出以省略号结尾
+```
+	white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+```
