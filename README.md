@@ -7,8 +7,10 @@ to-learn
 - [ ] css :table   table-cell  table-row
 - [ ] css 双栏响应布局
 - [ ] web components
-- [ ] 噢。。今天玩游戏
-- [ ] 今天要用github写个简历吧
+- [X] 噢。。今天玩游戏
+- [X] 今天要用github写个简历吧
+- [ ] 要学学grunt工具了
+
 
 new knowledge
 ============
