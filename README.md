@@ -8,6 +8,7 @@ to-learn
 - [ ] css 双栏响应布局
 - [ ] web components
 - [ ] 噢。。今天玩游戏
+- [ ] 今天要用github写个简历吧
 
 new knowledge
 ============
