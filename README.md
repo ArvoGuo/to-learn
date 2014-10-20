@@ -53,3 +53,8 @@ new knowledge
     text-overflow: ellipsis;
     overflow: hidden;
 ```
+-[X] jquery 的克隆对象 
+```
+	  当对象中包含对象的时候应当使用深层克隆 $.extend(true,{},obj);
+	  否则对象中的对象也将只是引用
+```
