@@ -16,6 +16,7 @@ to-learn
 - [ ] 关于D2前端技术会议的知识。 苏千的前后端分离，java－》node－》h5；祝犁的angularjs。
 - [X] 从阿里回来后，脑海里更加明确，要好好努力的意义。所谓的人和工具的区别。
 - [ ] 新的问题Less的使用，singlepage的实现，webcomponents
+- [ ] 要一个新的起点开始了，慢慢要定下方向了应该。基于javascript和css的动画特效交互？
 
 
 
