@@ -18,6 +18,7 @@ to-learn
 - [ ] 新的问题Less的使用，singlepage的实现，webcomponents
 - [X] 要一个新的起点开始了，慢慢要定下方向了应该。基于javascript和css的动画特效交互？
 - [ ] 有一件要事一直要做但是还没开始做， 为我的服务器启一个node服务器，发布一些日常写的静态资源。 
+- [ ] 关于jquery2.2版本  $(document).ready() undefined 问题 
 
 
 
