@@ -69,3 +69,4 @@ new knowledge
 	  否则对象中的对象也将只是引用
 ```
 -[X] 盒子模型，ie6认为margin＋border＋padding ＝ 盒子长宽，而w3c标准则只包含内容
+     在页面顶部加入doctype声明 就能够指定页面使用的盒子模型
