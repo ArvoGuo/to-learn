@@ -68,3 +68,4 @@ new knowledge
 	  当对象中包含对象的时候应当使用深层克隆 $.extend(true,{},obj);
 	  否则对象中的对象也将只是引用
 ```
+-[X] 盒子模型，ie6认为margin＋border＋padding ＝ 盒子长宽，而w3c标准则只包含内容
