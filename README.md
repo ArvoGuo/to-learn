@@ -19,6 +19,7 @@ to-learn
 - [X] 要一个新的起点开始了，慢慢要定下方向了应该。基于javascript和css的动画特效交互？
 - [ ] 有一件要事一直要做但是还没开始做， 为我的服务器启一个node服务器，发布一些日常写的静态资源。 
 - [ ] 关于jquery2.2版本  $(document).ready() undefined 问题 
+- [ ] 留个问题，稍后做个demo测试下，关于new <div>（backgroundimg）  和 new <img>（src）是否都是会不断请求图片
 
 
 
