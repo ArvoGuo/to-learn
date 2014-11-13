@@ -26,6 +26,12 @@ to-learn
 
 new knowledge
 ============
+
+-[X]get懒加载的一种实现方式，
+	1.将图片路径存起来
+	2.window.onscroll  时监听图片位置与当前可视区
+	document.documentElement.clientHeight + (document.documentElement.scrollTop || document.body.scrollTop)
+	再进行加入图片元素
 -[X]在zepto下的on方法不能绑定字符串的方式创建的元素事件，只能用live  X 应当更新版本，现zepto已模块分割
 -[X]微信监听对象，后续操作对象时，不要尝试去创建对象，应当去改变对象的属性。
 -[X]发get请求时后面要带随机数，否则会有缓存
