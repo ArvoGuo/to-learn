@@ -4,6 +4,12 @@
 REPL模式
 意思是：read-eval-print loop   输入－求值－输出循环。
 ```
+```
+supervisor 实时监控代码改动
+```
+```
+理解module.exports 和 exports的区别
+```
 
 
 
