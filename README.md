@@ -1,3 +1,31 @@
+#2014
+1120,node的学习
+```
+REPL模式
+意思是：read-eval-print loop   输入－求值－输出循环。
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Before 2014 1120
+==============================
 to-learn
 ============
 - [X] about callback
@@ -26,6 +54,7 @@ to-learn
 
 new knowledge
 ============
+
 -11.15 
 ```
 	1.  var fn = function(){}
