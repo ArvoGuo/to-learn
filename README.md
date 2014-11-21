@@ -1,4 +1,26 @@
 #2014
+1121,node的学习
+```
+fs.open(path,flags,[mode],[callback(err,fd)])
+
+r 读
+r+ 读写
+w 写，不存在则创建
+w+ 读写，不存在则创建
+a 追加，不存在则创建
+a+ 以读取追加模式打开，不存在则创建
+```
+```
+原型继承
+util.inherits(Sub,Base)
+```
+```
+输出流和输入流
+process.stdin.resume();
+process.stdin.on('data',function(data){
+	process.stdout.write('read forme consol: ' + data.toString());
+})
+```
 1120,node的学习
 ```
 REPL模式
