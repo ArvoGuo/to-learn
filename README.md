@@ -1,4 +1,13 @@
 #2014
+1125 学习方向
+```
+sass
+gulp
+angular
+flex-box
+es6-promise..
+
+```
 1123,css3的学习
 ```
 @-webkit-keyframes [animation-name]{
