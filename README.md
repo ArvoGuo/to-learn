@@ -1,4 +1,5 @@
 #2014
+1209 关于javascript的设计模式-观察者模式（发布订阅模式）（Publish/Subscribe）	
 1208 考虑到phonegap的各种局限性，如请求，各种api等功能，还是学习oc或者swift开发吧
 1206 采用phonegap方式开发app
 1205 开始写一个App
