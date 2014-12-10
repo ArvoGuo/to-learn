@@ -1,9 +1,14 @@
 #2014
 1210 写了关于[高德地图覆盖物的jquery扩展](https://github.com/ArvoGuo/GaodeMap)，将与angular对接。
+
 1209 关于javascript的设计模式-观察者模式（发布订阅模式）（Publish/Subscribe）
+
 1208 考虑到phonegap的各种局限性，如请求，各种api等功能，还是学习oc或者swift开发吧
+
 1206 采用phonegap方式开发app
+
 1205 开始写一个App
+
 1202 留下一个思考
 ```
 如何优雅的实现  导航 + 及时视图  这样结构的页面
