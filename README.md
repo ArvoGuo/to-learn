@@ -1,5 +1,13 @@
 #2014
+
+1225
+	Fabric
+
+```
+	Fabric is a Python (2.5 or higher) library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
+```
 1220 谢了关于[qq地图覆盖物的jquery扩展](https://github.com/ArvoGuo/QQMap)，将与angular对接。
+
 1210 写了关于[高德地图覆盖物的jquery扩展](https://github.com/ArvoGuo/GaodeMap)，将与angular对接。
 
 1209 关于javascript的设计模式-观察者模式（发布订阅模式）（Publish/Subscribe）
