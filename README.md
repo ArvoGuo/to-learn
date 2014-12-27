@@ -1,5 +1,7 @@
 #2014
 
+1227 关于Observer模式的深入学习 [JavaScript设计模式 9.5小节].
+
 1225
 	Fabric
 
