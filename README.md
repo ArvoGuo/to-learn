@@ -1,5 +1,12 @@
 #2015
 
+0106 关于jshint 警告this无效
+```
+	//在上下文加入
+	/*jshint validthis:true */
+	console.log(this)
+```
+
 0104 架设koa。
 
 0102 问题：jquery load 中嵌套load似乎会造次多次绑定on事件。
