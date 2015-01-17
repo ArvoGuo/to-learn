@@ -1,5 +1,11 @@
 
 #2015
+0117
+视觉差的关键
+```
+background-size: cover;
+background-attachment: fixed;
+```
 
 0107
 
@@ -58,7 +64,9 @@ Array.prototype.slice.call(arguments)
 	3.目前采用后端自定义模板方式
 		在index.html 中写入 {{html}} ，后端做页面片段替换 再吐出
 ```
+
 1202 写了一个[md to html平台](https://github.com/ArvoGuo/convertor)
+
 1127 学习小结
 ```
 现代居中的方式
@@ -67,7 +75,9 @@ Array.prototype.slice.call(arguments)
 
 关于filter（滤镜）的了解
 ```
+
 1125 学习方向
+
 ```
 sass
 gulp
@@ -76,7 +86,7 @@ flex-box
 es6-promise..
 
 ```
-1123,css3的学习
+1123 css3的学习
 ```
 @-webkit-keyframes [animation-name]{
 	0%{
